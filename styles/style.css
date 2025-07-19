@@ -186,6 +186,9 @@ header {
   margin: 1rem 0;
 }
 
+
+/* what client says section */
+
 /* responsive media query */
 @media screen and (max-width: 576px) {
   .navbar,
